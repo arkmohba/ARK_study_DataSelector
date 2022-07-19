@@ -10,8 +10,6 @@
 
 [A Quantum Annealing-Based Approach to Extreme Clustering](https://arxiv.org/abs/1903.08256) 
 
-※弊社は論文に一切関係ない。
-
 ## ライブラリ
 
 condaとかもあるので、こちらに一覧化する。
